@@ -1,1 +1,1 @@
-# BasicOpenGLClasses
+# OpenGLClasses
